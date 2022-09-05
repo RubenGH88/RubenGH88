@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ruben
+### Hi there 👋 I am Ruben <a href="https://www.linkedin.com/in/bernatescarra/" target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white' /></a> <a href="mailto:bernat.escarra@gmail.com" target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white' /></a>
 
 <!--
 **RubenGH88/RubenGH88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
